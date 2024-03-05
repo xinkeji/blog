@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 瓦豆鲁迪
+title: 果粉圈博客
 avatar: /assets/placeholder/avatar.png
 favicon: /assets/placeholder/favicon.ico
 subtitle: 明明只是在散步而已😃 | 却被卡比吸进了肚子😭
@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://waddledee.com/
+url: https://blog.g0f.cn/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
